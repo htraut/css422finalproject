@@ -3,6 +3,6 @@
 A dissassembler built in 68000 assembly language for the final project of CSS 422 at University of Washington Bothell
 
 Written by:
-Drew Byland
-Joey Guinasso
+Drew Byland,
+Joey Guinasso, and
 Herbert Traut
